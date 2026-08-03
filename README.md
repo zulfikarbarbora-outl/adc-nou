@@ -1,13 +1,13 @@
-# Novation Ultranova — Opus 48k Previews
+# Audio Data Collection
 
-Novation Ultranova (2011) — digital wavetable synthesizer with analog filters. Sourced from publicsamples (CC0).
+Audio files in Opus 48k format with metadata index.
 
-## Source
-- Original: https://github.com/publicsamples/Novation-Ultranova
-- License: CC0-1.0
+## Contents
 
-## Files
-- 317 Opus 48k VBR audio files
+- `index.json` — metadata index
+- `*.opus` — audio files
+- `validate.py` — validation script
 
-## Sourced by
-`resume-novation-ultranova.py` on 2026-07-28
+## License
+
+CC0-1.0 / Public Domain
